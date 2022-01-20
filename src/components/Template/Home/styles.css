@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width:1200px;
+  margin: 0 auto;
+  padding: 30px;
+  background: #ccc;
+  min-height: 100vh;
+}
+
+.button-container{
+  min-height: 60px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.search-container{
+  margin-bottom: 30px;
+}
+
+.search-container h1{
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
